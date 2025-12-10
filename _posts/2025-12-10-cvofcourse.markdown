@@ -2,7 +2,8 @@
 layout: post
 title:  "Cirriculum Vitae Again !"
 date:   2025-12-10 13:32:35 +0000
-categories: jekyll update
+categories: [DevOps, Industrialisation, Virtualisation,Portfolio]
+
 ---
 
 Maodo DIOP 

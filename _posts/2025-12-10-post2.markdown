@@ -2,7 +2,7 @@
 layout: post
 title:  "Notifications Pull vs. Push"
 date:   2025-12-03 12:32:35 +0000
-categories: jekyll update
+categories: [DevOps, Industrialisation, Virtualisation,Push,Pull,Notification]
 ---
 ***
 
