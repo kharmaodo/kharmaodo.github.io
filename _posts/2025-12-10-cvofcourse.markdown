@@ -222,4 +222,4 @@ LANGUES
 
 ● **Poular** (Courant) 
 
-● Anglais, Arabe, Espagnol (Scolaire) 
+● **Anglais, Arabe, Espagnol** (Scolaire) 
