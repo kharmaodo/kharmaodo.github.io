@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "CV Of Course !"
-date:   2025-12-10 12:32:35 +0000
+title:  "Cirriculum Vitae Again !"
+date:   2025-12-10 13:32:35 +0000
 categories: jekyll update
 ---
 
