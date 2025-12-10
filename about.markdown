@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Maodo DIOP
+title: About
 permalink: /about/
 ---
 

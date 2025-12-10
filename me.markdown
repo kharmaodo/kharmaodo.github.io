@@ -1,3 +1,8 @@
+---
+layout: page
+title: Me
+permalink: /me/
+---
 Maodo DIOP 
 
 Architecte Technique | Lead DevOps (16+ ans d'expérience) 

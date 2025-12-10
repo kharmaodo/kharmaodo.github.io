@@ -31,6 +31,19 @@ author: Maodo DIOP
 twitter_username: dmaodo
 github_username:  kharmaodo
 
+
+# --- Configuration de la Navigation (Ajoute ceci si ce n'est pas fait) ---
+navigation:
+  - title: Accueil
+    url: /
+  - title: Mon CV
+    url: /cv/  # Ton permalink pour le CV
+  - title: Me
+    url: /me/  # <--- AJOUTE CETTE LIGNE
+
+
+
+
 # Build settings
 theme: minima
 plugins:

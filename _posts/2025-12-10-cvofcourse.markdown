@@ -2,6 +2,7 @@
 layout: post
 title:  "Cirriculum Vitae Again !"
 date:   2025-12-10 13:32:35 +0000
+permalink: /cv/
 categories: [DevOps, Industrialisation, Virtualisation,Portfolio]
 
 ---
