@@ -208,6 +208,8 @@ Ecole Supérieure Polytechnique :
 
 ● **2010-2011 :** Mise en place d’un SVA avec l’API FACEBOOK. Bélal Ba et Pape Mor Coundoul,2010-2011, Département Génie Informatique, Licence Professionnelle Télécoms & Réseaux, ESP, UCAD 
 
+● **2007-2008 :** Etude comparative de différents Framework J2EE et leur impact sur les applications par Mlle Rokhaya Mboup,2007-2008, Département Génie Informatique, Licence Professionnelle Télécoms & Réseaux, ESP, UCAD 
+
 Université Alioune Diop de Bambey : 
 
 ● **2023-2024 :** Conception et Réalisation d’une application mobile pour la réservation d’hôtel, Assane Guilavogui, UFR SATIC, SID 
